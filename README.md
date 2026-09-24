@@ -1,5 +1,5 @@
  # 💫 About Me:
-🔭 I'm currently working on building Myself <br>👯 looking to collaborate on open source projects and teams <br>🤝  Excited  for help you in projects and hacthons <br>🌱  currently learning Busy on learning <br>⚡ Learning new things is crazy
+🔭 I'm currently working on building Myself <br>👯 looking to collaborate on open source projects and teams <br>🤝  Excited  for help you in projects and hackthons <br>🌱  currently learning,Busy on learning <br>⚡ Learning new things is crazy
 
 
 ## 🌐 Socials:
